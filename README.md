@@ -13,4 +13,4 @@ Command Line
 
  3D model render of the produced STL file (rendered using viewstl.com)
 
-[![STL 3D Model](https://i.imgur.com/edlXHjr.png)](https://www.viewstl.com/ "![STL 3D Model](https://i.imgur.com/edlXHjr.png)")
+![Demo](/demo.gif)
