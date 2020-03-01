@@ -13,4 +13,4 @@ Command Line
 
  3D model render of the produced STL file (rendered using viewstl.com)
 
-![Demo](/demo.gif)
+![Demo](/demo.png)
